@@ -1,3 +1,4 @@
+#読み込みS&P500の株価csvファイルの先頭の数字がベンフォードに従うか確認
 import numpy
 import math
 import matplotlib.pyplot as plt
